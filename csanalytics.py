@@ -4,13 +4,8 @@
 # Preliminary Actions
 ##################################################
 # Logging
-import time
-import datetime
-log_file = open("csanalytics.log","a")
+from logging import Logger
+logger = Logger()
 ##################################################
 
-# Current timestamp
-ts = time.time()
-st = datetime.datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M:%S")
-
-log_file.write(st+": File executed")
+logger.log("Test")
