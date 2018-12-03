@@ -1,3 +1,4 @@
+word,frequency
 on,20
 the,38
 implicit,1
@@ -76,7 +77,7 @@ snapshot,1
 nonstandard,1
 supervised,2
 problems:,1
-taxonomy,,1
+taxonomy,1
 relationships,2
 methods,3
 second-order,1
@@ -678,9 +679,9 @@ adaptive-similarity,1
 node,1
 scalable,1
 push,1
-accurate,,1
+accurate,1
 data-efficient,1
-noisy,,1
+noisy,1
 choice-based,1
 inherent,1
 match-net:,1
@@ -909,7 +910,7 @@ secure,1
 peer-to-peer,1
 facebook,1
 centers:,1
-characterization,,1
+characterization,1
 optimizations,1
 implications,1
 regularizers,1
@@ -946,7 +947,7 @@ wind,1
 speed,1
 representer,1
 curvature,1
-regularization,,1
+regularization,1
 vice,1
 versa,1
 gan,2
